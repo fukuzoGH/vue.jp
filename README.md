@@ -1,6 +1,4 @@
-# vue.jp
+# vue.jp 3
 <p>
-JavaScriptフレームワーク<br>
-小規模web開発向け<br>
-LTSの考え方が無い<br>
+TypeScriptサポート
 </p>
